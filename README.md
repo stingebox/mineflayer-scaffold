@@ -1,5 +1,7 @@
 # mineflayer-scaffold
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/PrismarineJS/mineflayer-scaffold.svg)](https://greenkeeper.io/)
+
 A library to help your mineflayer bot get to a specific point, even if it has
 to dig or build to get there.
 
