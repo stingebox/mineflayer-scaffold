@@ -37,7 +37,7 @@ function init(mineflayer) {
     vec3( 0,  0, -1),
     vec3( 0,  0,  1),
   ];
-  materials = mineflayer.materials;
+  materials = require('minecraft-data')('version').materials;
   return inject;
 }
 
